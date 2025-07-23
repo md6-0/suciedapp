@@ -1,6 +1,7 @@
 # 🧼 Suciedapp
 
 Suciedapp es una aplicación móvil desarrollada en Flutter cuyo objetivo es ofrecer a la ciudadanía una herramienta sencilla y efectiva para reportar incidencias relacionadas con la limpieza, el mantenimiento urbano y otros problemas del espacio público.
+
 📲 ¿Qué permite hacer?
 
     Seleccionar tu municipio desde una lista completa de ciudades españolas.
