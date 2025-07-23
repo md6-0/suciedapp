@@ -2,6 +2,7 @@
 
 Suciedapp es una aplicación móvil desarrollada en Flutter cuyo objetivo es ofrecer a la ciudadanía una herramienta sencilla y efectiva para reportar incidencias relacionadas con la limpieza, el mantenimiento urbano y otros problemas del espacio público.
 
+
 📲 ¿Qué permite hacer?
 
     Seleccionar tu municipio desde una lista completa de ciudades españolas.
@@ -16,9 +17,10 @@ Suciedapp es una aplicación móvil desarrollada en Flutter cuyo objetivo es ofr
 
         Dirección 
 
-    Mrcar como relevante las incidencias existentes.
+    Marcar como relevante las incidencias existentes.
 
     Ayudar a mantener responsable a la administración pública de tu municipio.
+
 
 🛠️ Tecnologías utilizadas
 
@@ -28,6 +30,7 @@ Suciedapp es una aplicación móvil desarrollada en Flutter cuyo objetivo es ofr
 
     Firebase
 
+
 🔒 Autenticación
 
 La app integrará un sistema de inicio de sesión mediante:
@@ -36,6 +39,3 @@ La app integrará un sistema de inicio de sesión mediante:
 
     Email/Contraseña
 
-🚀 Objetivo final
-
-Desplegar la aplicación en Google Play Store con un backend escalable y una experiencia de usuario fluida y moderna.
